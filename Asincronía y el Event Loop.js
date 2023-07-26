@@ -48,6 +48,6 @@ Operaciones Sincronas y Asincronas
         console.log("Tres");
     }
     uno();
-    console.log("Fin")
+    console.log("Fin");
 })();
 
